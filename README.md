@@ -1,5 +1,7 @@
 # Hackintosh for ThinkPad X1 Extreme Gen 1
 
+![image](https://user-images.githubusercontent.com/5051300/134805178-c5422cb1-51fc-4ddc-9e8c-66c4ce25599a.png)
+
 ## Hardware Specs
 
 - CPU: Intel Core i7-8750H
