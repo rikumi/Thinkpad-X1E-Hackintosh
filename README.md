@@ -49,3 +49,11 @@ ln -s /Volumes/Shared/SharedSupport /Volumes/macOS\ Base\ System/Install\ macOS\
 ```sh
 /Volumes/macOS\ Base\ System/Install\ macOS\ Catalina.app/Contents/Resources/startosinstall --volume /Volumes/macOS
 ```
+
+## Credits
+
+Currently this is almost a copy of https://github.com/ergonyc/BlackMac-ThinkPad-X1E.
+
+The SSDT_NVMe-Pcc.aml to disable primary NVMe SSD is borrowed from https://github.com/xuzhao9/ThinkPad-X1E-Hackintosh.
+
+Also checkout https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme for his links to most of the related works.
