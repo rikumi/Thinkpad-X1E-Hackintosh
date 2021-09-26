@@ -31,7 +31,7 @@
 - Fingerprint reader
 - IR camera is the default camera (don't try it at night)
 
-## Quick Installation Guide
+## Offline Installation Guide for Windows
 
 Here is a quick tip for installing macOS from Windows without either a Mac or Internet connection.
 
