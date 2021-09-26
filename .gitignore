@@ -1,0 +1,8 @@
+.DS_Store
+/*
+!/.gitignore
+!/EFI
+!/README.md
+/EFI/APPLE
+/EFI/OC/Resources/Audio
+._*
